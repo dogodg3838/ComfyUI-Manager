@@ -1,3 +1,4 @@
+![Preview](Preview.jpg)
 # NvEye - ComfyUI Hardware Monitor
 
 ComfyUI already has hardware monitoring solutions such as **crystools**, but they can cause node conflicts and occupy UI space. NvEye was created as a pure hardware display widget — lightweight, non-intrusive, and conflict-free.
@@ -87,3 +88,4 @@ GPU, VRAM, 온도, CPU, RAM 사용 현황을 표시합니다.
 - NVIDIA GPU 전용
 - `nvidia-smi` 설치됨（NVIDIA 드라이버에 포함）
 - Python 패키지：`psutil`（ComfyUI Manager 자동 설치）
+
